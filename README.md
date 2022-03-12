@@ -25,5 +25,10 @@ Uniswap is the largest decentralized exchange (or DEX) operating on the Ethereum
   - Extract zip file, then drag and drop the folder into chrome extensions window. 
   
   - Alternatively, click on the Load unpacked button, navigate to the extensions folder and press Select Folder.
+  
+4. Click on the “Extensions” button, then pin Uniswap extension to extension toolbar
+
+
+
 
 That’s it! The extension is now installed.
