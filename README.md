@@ -9,7 +9,11 @@
 
 A Chrome extension for Uniswap cryptocurrency DeFi exchange
 
-![ezgif com-gif-maker(1)](https://user-images.githubusercontent.com/36484062/158165440-fc3f3053-fa39-48f2-8b3a-d6f4357f2bcb.gif)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/36484062/158170691-3d62ab1a-7cca-4465-9c45-583ec6d1a874.gif" alt="Sublime's custom image"/>
+</p>
+
 
 
 # What is Uniswap?
