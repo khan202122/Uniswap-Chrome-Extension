@@ -37,3 +37,4 @@ Uniswap is the largest decentralized exchange (or DEX) operating on the Ethereum
 ![Pin-Extension-to-Chrome jpg](https://user-images.githubusercontent.com/36484062/158018713-f5f42fd7-7d25-40b5-b677-8386cb0df870.jpg)
 
 That’s it! The extension is now installed.
+all done.
